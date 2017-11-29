@@ -1,6 +1,6 @@
 # lorawanpacket
 
-[![Build Status](https://travis-ci.org/cambierr/lorawanpacket.svg?branch=master)](https://travis-ci.org/IxorTalk/lorawanpacket)
+[![Build Status](https://travis-ci.org/IxorTalk/lorawanpacket.svg?branch=master)](https://travis-ci.org/IxorTalk/lorawanpacket)
 
 Full credit for this library goes to [Romain Cambier](https://github.com/cambierr)
 
