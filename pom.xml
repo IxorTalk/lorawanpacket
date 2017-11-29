@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>be.romaincambier</groupId>
-    <artifactId>lorawan</artifactId>
-    <version>1.0.0</version>
+    <groupId>com.ixortalk</groupId>
+    <artifactId>lorawan.packet.parser</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -12,7 +12,7 @@
     </properties>
     <name>LoRaWan packet library</name>
     <description>This is a library do decode LoRaWan packets</description>
-    <url>https://github.com/cambierr/lorawanpacket</url>
+    <url>https://github.com/IxorTalk/lorawanpacket</url>
     
     <licenses>
         <license>
@@ -22,15 +22,15 @@
     </licenses>
   
     <scm>
-        <url>https://github.com/cambierr/lorawanpacket.git</url>
+        <url>https://github.com/IxorTalk/lorawanpacket.git</url>
     </scm>
     
     <developers>
         <developer>
-            <id>cambierr</id>
-            <name>Romain Cambier</name>
-            <email>me@romaincambier.be</email>
-            <url>https://github.com/cambierr</url>
+            <id>ddewaele</id>
+            <name>Davy De Waele</name>
+            <email>davy.dewaele@ixor.be</email>
+            <url>https://github.com/ddewaele</url>
             <roles>
                 <role>architect</role>
                 <role>developer</role>
